@@ -1,5 +1,5 @@
 # Bioinformatics and Deep Learning papers read
-### DL to combat prostate and lung cancer  
+### DL to combat prostate and lung cancer  /  mpMRI_dl_el18445 (subset of the first)
 Initial papers that inspired the research  
 [1] Boldrini, Luca, et al. "Deep learning: a review for the radiation oncologist." Frontiers in Oncology 9 (2019): 977. 
 
@@ -21,3 +21,6 @@ Report citations
 [9] Tseng HH, Luo Y, Cui S, Chien JT, Ten Haken RK, Naqa IE. Deep reinforcement learning for automated radiation adaptation in lung cancer. Med Phys. 2017 Dec;44(12):6690-6705. doi: 10.1002/mp.12625. Epub 2017 Nov 14. PMID: 29034482; PMCID: PMC5734677.
 
 [10] Jaffray DA. Image-guided radiotherapy: from current concept to future perspectives. Nat Rev Clin Oncol. 2012 Dec;9(12):688-99. doi: 10.1038/nrclinonc.2012.194. Epub 2012 Nov 20. PMID: 23165124.
+
+### DL to combat prostate and lung cancer  /  mpMRI_dl_el18445 (subset of the first)
+
