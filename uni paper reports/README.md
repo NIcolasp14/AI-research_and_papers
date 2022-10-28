@@ -23,4 +23,10 @@ Report citations
 [10] Jaffray DA. Image-guided radiotherapy: from current concept to future perspectives. Nat Rev Clin Oncol. 2012 Dec;9(12):688-99. doi: 10.1038/nrclinonc.2012.194. Epub 2012 Nov 20. PMID: 23165124.
 
 ### ctscan_dl_technical_report
+[11] Nie D, Cao X, Gao Y, Wang L, Shen D. Estimating CT Image from MRI Data Using 3D Fully Convolutional Networks. Deep Learn Data Label Med Appl (2016). 2016;2016:170-178. doi: 10.1007/978-3-319-46976-8_18. Epub 2016 Sep 27. PMID: 29075680; PMCID: PMC5654583.
 
+[12] Lu F, Wu F, Hu P, Peng Z, Kong D. Automatic 3D liver location and segmentation via convolutional neural network and graph cut. Int J Comput Assist Radiol Surg. 2017 Feb;12(2):171-182. doi: 10.1007/s11548-016-1467-3. Epub 2016 Sep 7. PMID: 27604760.
+
+[13] Gulliford SL, Webb S, Rowbottom CG, Corne DW, Dearnaley DP. Use of artificial neural networks to predict biological outcomes for patients receiving radical radiotherapy of the prostate. Radiother Oncol. 2004 Apr;71(1):3-12. doi: 10.1016/j.radonc.2003.03.001. PMID: 15066290.
+
+[14] Bryce TJ, Dewhirst MW, Floyd CE Jr, Hars V, Brizel DM. Artificial neural network model of survival in patients treated with irradiation with and without concurrent chemotherapy for advanced carcinoma of the head and neck. Int J Radiat Oncol Biol Phys. 1998 May 1;41(2):339-45. doi: 10.1016/s0360-3016(98)00016-9. PMID: 9607349.
