@@ -22,5 +22,5 @@ Report citations
 
 [10] Jaffray DA. Image-guided radiotherapy: from current concept to future perspectives. Nat Rev Clin Oncol. 2012 Dec;9(12):688-99. doi: 10.1038/nrclinonc.2012.194. Epub 2012 Nov 20. PMID: 23165124.
 
-### DL to combat prostate and lung cancer  /  mpMRI_dl_el18445 (subset of the first)
+### ctscan_dl_technical_report
 
